@@ -1,5 +1,9 @@
 # drac
 
+_filthy script to automatically ingest some lovely blood data from my Accu-Chek Mobile_
+
+![Photo of it doing the thing](naughtyphoto.jpg)
+
 ## install
 
 `npm install`
