@@ -1,0 +1,12 @@
+{
+  "name": "drac",
+  "main": "index.js",
+  "dependencies": {
+    "amoeba": "^0.2.1",
+    "chalk": "^1.1.1",
+    "csvtojson": "^0.4.6",
+    "glob": "^6.0.1",
+    "node-uuid": "^1.4.7",
+    "usb": "^1.1.1"
+  }
+}
