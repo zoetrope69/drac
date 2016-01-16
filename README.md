@@ -1,6 +1,6 @@
 # drac
 
-_filthy script to automatically ingest some lovely blood data from my Accu-Chek Mobile_
+_filthy script to automatically ingest some lovely blood data from my Accu-Chek Mobile and Aviva Expert_
 
 ![Photo of it doing the thing](naughtyphoto.jpg)
 
@@ -14,10 +14,11 @@ most of this is hard wired for my set-up atm
 
 ## run
 
-1. `node main.js`
-2. plug ur shit in
-3. get that data
+`npm link`
 
++ `drac upload /path/to/file.csv` - Upload from a CSV (Accu-Chek Mobile and Aviva Expert Support)
++ `drac download` - Downloads from Accu-Chek Mobile directly
++ `drac info` - Loverly bit of information
 
 ## credits
 
