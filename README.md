@@ -1,5 +1,7 @@
 # drac
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zaccolley/drac.svg)](https://greenkeeper.io/)
+
 _filthy script to automatically ingest some lovely blood data from my Accu-Chek Mobile and Aviva Expert_
 
 ![Photo of it doing the thing](naughtyphoto.jpg)
